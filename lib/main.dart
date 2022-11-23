@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:lab6/form.dart';
+import 'package:lab6/page/form.dart';
 
 void main() {
   runApp(const MyApp());
